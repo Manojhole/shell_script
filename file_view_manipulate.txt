@@ -1,0 +1,17 @@
+cat file : display the contents of a file
+tac file : display file content in a reverse order
+more file : views content one page at a time
+less file : scrollable file viewer ,bachward/forward
+head file : shows the first 10 lines of the file
+tail file : shows the last 10 lines of the file
+tail -f file : continuosly monitors a file as it grows 
+cut -d ':' -f1/etc/passwd : cuts out the first feild from line susing ':' as delimiter
+wc file : coutns lines words ,charatcters in the file 
+cmo file1 file2 : compare two files bytes by bytes
+sort file : sort file content line by line
+uniq : removes duplicate line from sorted input
+tr a-z A-Z translate lower case to upper case 
+sed 's/old/new/g' file : replace all 'old with 'new' in file
+awk '{print$1}' file : prints the first column from a file 
+n1 file : number the line of a file
+

@@ -1,0 +1,22 @@
+pwd :- cmd is help to find present working directory
+cd : Help to chage the working directory
+cp : copy the file 
+ls : list the file and directory in the current directory
+ls -l : list files with detailed information like 1. permision, 2.size of the file , 3.date modified
+ls -a : Show all the hidden files
+cd.. : moves up one directory level
+mkdir : creates a new directory named 
+mkdir -p a/b/c : create nested directory , even if the parent folders don't exist 
+rmdir : removes an empty directory
+rm : deletes a file
+rm -rf : recoersevely and forcefully delete file or directory
+cp -r dir1 dir2 : recursively copes dir1 to dir2
+mv file1 file2 : moves or rename file to file2
+touch filename : create a empty file
+stat file : display detailed file info
+file file : tells th etype of the file
+tree : display a dirtectory tree structure
+basename  /path/to/file : outputs the file name from a full path
+dirname /path/to/file : outputs the directory name from a full path
+ 
+

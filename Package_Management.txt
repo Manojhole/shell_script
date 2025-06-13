@@ -1,0 +1,8 @@
+apk update : updates the package index
+apt upgrade : install latest versions of packages
+apt install  packagename : install a new package
+apt purge pkg  : remove package and it's config files
+dpkg -i pkg.deb : install a .deb package manually
+dpkg -i : lilsts installed packages
+apt -cache search keyword : search for a package
+

@@ -1,0 +1,13 @@
+whoami : display the current user
+id : showa the user and group id 
+adduser username : adds a new user
+useradd username : adds a user (low level)
+passwd user : changes the user password
+deluser username : deletes a user
+groupadd groupname : creates a new group
+usermod -aG group user : adds user to a group
+group user : shows groups of a user
+who : shows who is logged in
+w: display who is looged in and what they are doing 
+last : show the lasr login histroy of user
+

@@ -1,0 +1,9 @@
+uptime : show system uptime and load
+dmesg : prints kernel ring buffer messages
+free -h : shows RAM usage
+vmstat : reports system performance
+iostat : cpu and disk i/o statstics
+journalctl : views logs from systemd
+tail -f /var/log/syslog : followa system log live
+watch -n 2df -h : Runs command repeatedly
+

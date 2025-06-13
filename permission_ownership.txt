@@ -1,0 +1,7 @@
+chmod 755 file : set file permission (read,write,execute)
+chmod +x file : adds excute permission to file
+
+chown user file : change file owner to user
+chgrp group file : changes group ownership
+umask : shows default file permission on mask
+

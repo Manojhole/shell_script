@@ -1,0 +1,14 @@
+ip a : shows ip addresses
+if config : shows network interfaces
+ping host : check networking connectivity
+traceroute host : traces route to host
+netstat -tuln : showa active ports
+ss -tuln : faster alternative to netstat
+dig domain.com : another DNS lookup tool
+host domain.com : simle DNS lookup
+wget url Download file from internet or url
+curl url : transfer data from /tp a server
+scp file user@host :/path : secure a copy over slt
+rsync -av source host : fast remote/local file sync
+nmao host scans opens ports
+

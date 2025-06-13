@@ -1,0 +1,7 @@
+ps : list all running processes
+ps aux : detailed list of all processes
+top : interactive real time process viewer
+htop : improved version of a top
+kill pid : terminates a process by pid
+kill all : kill all processes with adjusted priority
+renice : changes priority of a running process

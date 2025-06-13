@@ -1,0 +1,24 @@
+
+echo "text " : prints text to terminal 
+read var  : takes inputs into a variable 
+expert var = value : set an environmental variable
+alias ll ='ls -la' : create shortcut command
+unalias // : removes an alias 
+history : showa command history
+!n : runs commanda number n from histroy
+sourcepath script.sh : executes a script in the current shell 
+
+
+-----------------------------------------------------
+Others commands 
+-----------------------------------------------------
+date : show current date and time
+cal : display a calender 
+uptime : shows how long system has been running 
+hostname : shows r set system host name
+uname -a : show system info 
+man cmd : opens the manula of a command
+which cmd : shos the path of a command
+where is cmd : showa location of binaries ,source and map pages
+clear : clears the terminal 
+exist : exist the shell 

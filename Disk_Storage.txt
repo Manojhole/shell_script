@@ -1,0 +1,9 @@
+df -h : shows disk usage in human readable format
+du -sh dir : shows size of a directory
+mount : list mounted file systems
+umount : unmounts a device
+lsblk : list block devices
+fdisk -l : list all partitions
+blkid : show blockdevice uuids
+sync : flushes file system buffers
+ 

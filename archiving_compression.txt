@@ -1,0 +1,10 @@
+
+tar =cvf file .tar dir/ : create a tar archive
+tar -xvf file.tar : extract .tar archive 
+tar -czvf file.tar.gz dir / : creates a gzip compressed archive
+tar -xzvf file.tar.gz : extract a gzip archive 
+zip file.zip file : compresses file to .zip 
+unzip file.zip : extarct a zip file
+gzip file : compresses file to .gz
+gunzip file.gz : decompresses .gz file 
+
